@@ -1,6 +1,6 @@
 # Hey there 👋, I’m **Pedro**.
 
-### I'm a software engineer based in Portugal 🇵🇹 and I'm currently working at [PageProof](https://www.pageproof.com/) as a junior Web Developer.
+### I'm a software engineer based in Portugal 🇵🇹 and I'm currently working at [PageProof](https://www.pageproof.com/) as a Software Engineer.
 
 ### You can reach me at [pedro.primor@pm.me](mailto:pedro.primor@pm.me).
 
@@ -16,11 +16,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-## What I'm currently learning
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 
 ## What I've used before
 
